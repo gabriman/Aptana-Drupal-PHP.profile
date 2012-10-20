@@ -137,7 +137,7 @@
 <setting id="php.formatter.spaces.after.semicolon" value="1"/>
 <setting id="php.formatter.spaces.after.prefix" value="0"/>
 <setting id="ruby.formatter.indent.if" value="true"/>
-<setting id="php.formatter.formatter.tabulation.char" value="editor"/>
+<setting id="php.formatter.formatter.tabulation.char" value="space"/>
 <setting id="php.formatter.spaces.after.commas" value="1"/>
 <setting id="xml.formatter.newline.excluded.on.text.nodes" value="true"/>
 <setting id="js.formatter.spaces.before.unary.operator" value="0"/>
